@@ -21,13 +21,13 @@ const facultyData = [
     },
     {
         name: "Dr. Visnu Dharshini",
-        position: "Campus Life Overall Coordinator",
+        position: "Instituition Campus Life Coordinator",
         image: "assets/faculties/fc1.jpg",
         details: "Department of Computer Science and Engineering"
     },
     {
         name: "Dr. Monika",
-        position: "Campus Life Overall Coordinator",
+        position: "Instituition Campus Life Overall Coordinator",
         image: "assets/faculties/fc2.jpg",
         details: "Department of Biotechnology"
     }
@@ -62,6 +62,13 @@ function initCarousel() {
         { src: 'assets/events/14.jpg', title: 'Teachers Day' },
         { src: 'assets/events/15.jpg', title: 'Navaratri Celebration' },
         { src: 'assets/events/16.jpg', title: 'Aadukalam 24' },
+        { src: 'assets/events/17.jpg', title: 'Womens Day 2025' },
+        { src: 'assets/events/18.jpg', title: 'Womens Day 2025' },
+        { src: 'assets/events/19.jpg', title: 'Womens Day 2025' },
+        { src: 'assets/events/20.jpg', title: 'Womens Day 2025' },
+        { src: 'assets/events/21.jpg', title: 'Womens Day 2025' },
+        { src: 'assets/events/22.jpg', title: 'Womens Day 2025' },
+
 
         // Add more images and titles as needed
     ];

@@ -6,13 +6,13 @@ import styled from 'styled-components';
 const facultyData = [
   {
     name: "Dr. Visnu Dharshini",
-    position: "Campus Life Overall Coordinator",
+    position: "Institution Campus Life Coordinator",
     image: fc,
     details: "Department of Computer Science and Engineering"
 },
 {
     name: "Dr. Monika",
-    position: "Campus Life Overall Coordinator",
+    position: "Institution Campus Life Coordinator",
     image: "assets/faculties/fc2.jpg",
     details: "Department of Biotechnology"
 }
